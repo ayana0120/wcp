@@ -3,5 +3,4 @@ public class Chapter02 {
 		System.out.println("Hello WEBCAMP!");
 		System.out.println("Hello Java!");
 	}
-
 }

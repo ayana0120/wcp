@@ -6,5 +6,4 @@ public class While01 {
 			System.out.println("While01 =" + number);
 		}
 	}
-
 }

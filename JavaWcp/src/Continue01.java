@@ -7,5 +7,4 @@ public class Continue01 {
 			System.out.println("Continue01 = " + count);
 		}
 	}
-
 }

@@ -9,5 +9,4 @@ public class If02 {
 			System.out.println(number + "は15未満でないです");
 		}
 	}
-
 }

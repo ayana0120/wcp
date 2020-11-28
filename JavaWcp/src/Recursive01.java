@@ -12,5 +12,4 @@ public class Recursive01 {
 		}
 		return number;
 	}
-
 }

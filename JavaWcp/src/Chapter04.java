@@ -1,4 +1,3 @@
-
 public class Chapter04 {
 	public static void main(String[]args) {
 		final int num = 5;
@@ -12,5 +11,4 @@ public class Chapter04 {
 		System.out.println(num);
 		
 	}
-
 }

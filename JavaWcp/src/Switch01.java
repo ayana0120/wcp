@@ -12,5 +12,4 @@ public class Switch01 {
 			System.out.println("がんばろう！");
 		}
 	}
-
 }
