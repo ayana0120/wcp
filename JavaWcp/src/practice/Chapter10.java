@@ -4,7 +4,6 @@ import java.sql.SQLException;
 
 public class Chapter10 {
 	public static void main(String[] args) {
-		
 		try {
 			int array[] = {1, 3, 5};
 			Chapter10.validIndex(array, 2);
@@ -25,7 +24,7 @@ public class Chapter10 {
 			System.out.println("throwSQLExceptionの呼び出し終了");
 		}
 		System.out.println("mainメソッド終了");
-	} 
+	}
 	
 	public static void validIndex(int[] array, int index) {
 		if (array.length <= index) {

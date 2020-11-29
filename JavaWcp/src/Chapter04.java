@@ -7,8 +7,6 @@ public class Chapter04 {
 		
 		myname = "神話";
 		System.out.println(myname);
-		
 		System.out.println(num);
-		
 	}
 }

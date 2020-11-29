@@ -6,6 +6,5 @@ public class Exception01 {
 		int result = 100 / 0;
 		System.out.println("計算結果" + result);
 		System.out.println("プログラム終了");
-		
 	}
 }

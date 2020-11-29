@@ -7,5 +7,4 @@ public class ClassMethod05 {
 		Human05 yamada = new Human05();
 		System.out.println("名前は" + yamada.getName() + "で、年齢は" + yamada.getAge() + "です。");
 	}
-
 }

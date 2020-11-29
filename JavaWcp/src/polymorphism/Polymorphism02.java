@@ -30,5 +30,4 @@ public class Polymorphism02 {
 	public void printName(Human human) {
 		System.out.println(human.getName() + "です。");
 	}
-
 }

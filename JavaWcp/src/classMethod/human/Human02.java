@@ -13,5 +13,4 @@ public class Human02 {
 		this.name = name;
 		this.age = age;
 	}
-
 }
